@@ -1,0 +1,7 @@
+name = input("give me the name of the host plsss ")
+address = input("give the ip address plsss ")
+port = int(input("give the port plsss "))
+print(f"------FICHA TECNICA DE EQUIPO-------")
+print(f"nombre del equipo: {name}")
+print(f"direccion del equipo: {address}")
+print(f"puerto del equipo: {port}")
